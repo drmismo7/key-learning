@@ -1,0 +1,22 @@
+{
+  "name": "key-learning",
+  "version": "0.2.0",
+  "description": "Field-agnostic AI tutor skill for Claude. Explains how and why from first principles, diagnoses your Bloom's taxonomy level, builds personalised learning plans anchored to published curricula, and schedules spaced repetition in a plain markdown ledger.",
+  "keywords": [
+    "claude-skill",
+    "agent-skill",
+    "ai-tutor",
+    "spaced-repetition",
+    "blooms-taxonomy",
+    "first-principles",
+    "learning-plan",
+    "curriculum-design",
+    "self-directed-learning",
+    "pedagogy",
+    "knowledge-retention",
+    "personalized-learning",
+    "study-plan",
+    "claude-plugin"
+  ],
+  "license": "MIT"
+}
